@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <rect width="500" height="500" fill="white" />
+  <!-- Circular Base -->
+  <circle cx="250" cy="250" r="200" fill="#002B5B" />
+
+  <!-- Scales of Justice Icon -->
+  <g transform="translate(250, 200)">
+    <line x1="-80" y1="0" x2="80" y2="0" stroke="#FFFFFF" stroke-width="10" />
+    <line x1="0" y1="0" x2="0" y2="120" stroke="#FFFFFF" stroke-width="10" />
+    <circle cx="-50" cy="50" r="30" fill="none" stroke="#FFFFFF" stroke-width="10" />
+    <circle cx="50" cy="50" r="30" fill="none" stroke="#FFFFFF" stroke-width="10" />
+    <line x1="-50" y1="0" x2="-50" y2="50" stroke="#FFFFFF" stroke-width="5" />
+    <line x1="50" y1="0" x2="50" y2="50" stroke="#FFFFFF" stroke-width="5" />
+  </g>
+
+  <!-- Text Integration -->
+  <text x="250" y="380" text-anchor="middle" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="50" font-weight="bold">
+    LFA
+  </text>
+</svg>
